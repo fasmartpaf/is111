@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659136633316",
+    "project_id": "elhamedia-7047e",
+    "storage_bucket": "elhamedia-7047e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659136633316:android:59419aa69f6e04aa8c0ff1",
+        "android_client_info": {
+          "package_name": "com.isl.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659136633316-ihkit3qk7o9h0df06lo5od98f1t9tlm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isl.app",
+            "certificate_hash": "5ff247fbd77ccb6432eb5dc2dff8c8b5294054c6"
+          }
+        },
+        {
+          "client_id": "659136633316-hifiklce530lpar62v8l2r1u8pvj5d7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Tf0grIg0Yg_vw0FodVGppYc0-WwKQNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659136633316-hifiklce530lpar62v8l2r1u8pvj5d7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
